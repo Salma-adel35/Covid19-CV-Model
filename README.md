@@ -39,6 +39,9 @@ It contains over 21,000 chest X-ray images categorized into four classes:
 
 ---
 
-## 💾 Model
+## 💾 Trained Model
 
-The trained model is saved as:
+The trained model (`covid_model.h5`) can be downloaded from Google Drive:
+
+🔗 [Download model](https://drive.google.com/file/d/13Lw1isJ9YBQQCYiwmNAvIa7kZBD3wYwk/view?usp=sharing)
+
