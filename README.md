@@ -23,7 +23,6 @@ It contains over 21,000 chest X-ray images categorized into four classes:
 - Python
 - Jupyter Notebook
 - TensorFlow / Keras
-- OpenCV
 - Matplotlib & Seaborn
 - Scikit-learn
 
@@ -34,7 +33,6 @@ It contains over 21,000 chest X-ray images categorized into four classes:
 - Data preprocessing and image resizing
 - Exploratory Data Analysis (EDA)
 - Building and training a Convolutional Neural Network (CNN)
-- Evaluation using accuracy, confusion matrix, and classification report
 - Saving the trained model (`.h5` format)
 
 ---
